@@ -239,7 +239,9 @@
     <Content Include="Library\FISCA.UDT.pdb" />
     <Content Include="Library\K12.Data.dll" />
     <Content Include="Library\K12.Data.pdb" />
-    <Content Include="Library\K12.Data.xml" />
+    <Content Include="Library\K12.Data.xml">
+      <SubType>Designer</SubType>
+    </Content>
     <Content Include="Library\K12.Presentation.dll" />
     <Content Include="Library\K12.Presentation.xml" />
     <Content Include="Library\ReportHelper.dll" />
